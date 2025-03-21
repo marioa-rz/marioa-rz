@@ -3,9 +3,9 @@
   <h3>I'm a Junior Developer passionate about building modern web applications.</h3>
 </div>
 
----
-
-### 🚀 About Me
+<div align="center">
+  <h1>🚀 About Me</h1>
+</div>
 
 🔭 I'm currently working with React, Node.js, and MongoDB.
 
