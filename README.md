@@ -2,7 +2,7 @@
   <h1>Hi, I'm Mario 👋</h1>
   <h3>I'm a Junior Developer passionate about building modern web applications.</h3>
 </div>
-
+---
 ### 🚀 About Me
 ---
 
@@ -13,6 +13,8 @@
 ☁️ I'm very interested in websites and desktop or mobile applications.
 
 📫 Feel free to contact me at marioandreerodriguez@gmail.com
+
+---
 
 <!--- stats & Trophy (start) -->
 <p align="center">
