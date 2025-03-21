@@ -4,6 +4,8 @@
 </div>
 
 ### 🚀 About Me
+---
+
 🔭 I'm currently working with React, Node.js, and MongoDB.
 
 🌱 I'm learning how to build stable web applications.
@@ -11,8 +13,6 @@
 ☁️ I'm very interested in websites and desktop or mobile applications.
 
 📫 Feel free to contact me at marioandreerodriguez@gmail.com
-
----
 
 <!--- stats & Trophy (start) -->
 <p align="center">
