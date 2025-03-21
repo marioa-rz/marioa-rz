@@ -9,7 +9,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Soy un desarrollador júnior</h2></summary>
+    <summary><h2 style="display: inline-block">I am a junior developer</h2></summary>
   </ul>
 </div>
 
