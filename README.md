@@ -2,11 +2,10 @@
   <h1>Hi, I'm Mario 👋</h1>
   <h3>I'm a Junior Developer passionate about building modern web applications.</h3>
 </div>
+
 ---
 
 ### 🚀 About Me
-
----
 
 🔭 I'm currently working with React, Node.js, and MongoDB.
 
