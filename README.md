@@ -11,7 +11,6 @@
   </ul>
 </div>
 
-
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
