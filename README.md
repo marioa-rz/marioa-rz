@@ -50,9 +50,9 @@ About Me
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2>Technologies That I Know</h2></summary>
-  </ul>
+  <div align="center">
+    <p>Technologies That I Know</p>
+  </div>
 </div>
 <!--tech stack icons-->
 <p align="center">
