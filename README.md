@@ -4,10 +4,8 @@
 </div>
 
 ---
-
-<div>
-  <h1>🚀 About Me</h1>
-</div>
+About Me
+---
 
 🔭 I'm currently working with React, Node.js, and MongoDB.
 
