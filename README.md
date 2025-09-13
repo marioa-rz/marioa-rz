@@ -3,6 +3,7 @@
   <h3>I am a junior developer who is passionate about learning</h3>
 </div>
 
+---
 About Me
 ---
 
@@ -13,8 +14,6 @@ About Me
 ☁️ I'm very interested in websites and desktop or mobile applications.
 
 📫 Feel free to contact me at marioandreerodriguez@gmail.com
-
----
 
 <!--- stats & Trophy (start) -->
 <p align="center">
