@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Mario 👋</h1>
+  I am a junior developer who is passionate about learning
 </div>
-I am a junior developer who is passionate about learning
 
 About Me
 ---
