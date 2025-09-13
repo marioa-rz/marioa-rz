@@ -3,7 +3,6 @@
 </div>
 I am a junior developer who is passionate about learning
 
----
 About Me
 ---
 
