@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Mario 👋</h1>
-  <h3>I am a junior developer who is passionate about learning</h3>
 </div>
-
+I am a junior developer who is passionate about learning
 ---
 About Me
 ---
@@ -51,7 +50,7 @@ About Me
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <div align="center">
-    <h1>Technologies That I Know</h1>
+    <h2>Technologies That I Know</h2>
   </div>
 </div>
 <!--tech stack icons-->
