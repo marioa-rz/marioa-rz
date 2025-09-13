@@ -1,19 +1,16 @@
 <div align="center">
   <h1>Hi, I'm Mario 👋</h1>
-  I am a junior developer who is passionate about learning
+  <p>Junior Developer | Passionate Learner | Tech Enthusiast</p>
 </div>
 
 About Me
 ---
 
-🔭 I'm currently working with React, Node.js, and MongoDB.
-
-🌱 I'm learning how to build stable web applications.
-
-☁️ I'm very interested in websites and desktop or mobile applications.
-
-📫 Feel free to contact me at marioandreerodriguez@gmail.com
-
+- 🔭 Currently working with **React, Node.js, and MongoDB**  
+- 🌱 Learning how to build **scalable & stable web applications**  
+- ☁️ Interested in **Web, Desktop, and Mobile applications**  
+- 📫 Reach me at: **marioandreerodriguez@gmail.com**
+  
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
