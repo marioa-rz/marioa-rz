@@ -3,7 +3,6 @@
   <h3>I am a junior developer who is passionate about learning</h3>
 </div>
 
----
 About Me
 ---
 
