@@ -3,7 +3,9 @@
   <h3>Junior Developer | Passionate Learner | Tech Enthusiast</h3>
 </div>
 
-About Me
+<hr style="height:1px; border:none; background-color:#444;"/>
+
+## About Me
 ---
 
 - 🔭 Currently working with **React, Node.js, and MongoDB**  
