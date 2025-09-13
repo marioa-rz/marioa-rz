@@ -1,13 +1,10 @@
 <div align="center">
   <h1>Hi, I'm Mario 👋</h1>
-  ---
-  <h3>I am a junior developer who is passionate about learning</h3>
+  <h2>I am a junior developer who is passionate about learning</h2>
 </div>
 
 ---
 About Me
----
-
 ---
 🔭 I'm currently working with React, Node.js, and MongoDB.
 
