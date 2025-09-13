@@ -1,62 +1,53 @@
 <div align="center">
   <h1>Hi, I'm Mario 👋</h1>
-  I am a junior developer who is passionate about learning
+  <p>🚀 Junior Developer | Passionate Learner | Tech Enthusiast</p>
 </div>
 
-About Me
 ---
 
-🔭 I'm currently working with React, Node.js, and MongoDB.
+## 👨‍💻 About Me
 
-🌱 I'm learning how to build stable web applications.
+- 🔭 Currently working with **React, Node.js, and MongoDB**  
+- 🌱 Learning how to build **scalable & stable web applications**  
+- ☁️ Interested in **Web, Desktop, and Mobile applications**  
+- 📫 Reach me at: **marioandreerodriguez@gmail.com**  
 
-☁️ I'm very interested in websites and desktop or mobile applications.
+---
 
-📫 Feel free to contact me at marioandreerodriguez@gmail.com
+## ⚡ GitHub Stats & Activity
 
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=MarioUserName&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=MarioUserName&theme=radical&hide_border=false" alt="GitHub Streak" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioUserName&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <div align="center">
-    <h2>Technologies That I Know</h2>
-  </div>
-</div>
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,express,github,html,java,js,linux,mongodb,mysql,nodejs,postman,react,vscode&perline=14" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=MarioUserName&theme=radical&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,css,express,github,html,java,js,linux,mongodb,mysql,nodejs,postman,react,vscode&perline=8" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+<p align="center">
+  <a href="mailto:marioandreerodriguez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MarioUserName"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
