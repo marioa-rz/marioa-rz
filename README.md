@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Mario 👋</h1>
-  <p>Junior Developer | Passionate Learner | Tech Enthusiast</p>
+  <h2>Junior Developer | Passionate Learner | Tech Enthusiast</h2>
 </div>
 
 About Me
