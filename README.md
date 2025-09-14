@@ -4,6 +4,7 @@
   <h2></h2>
 </div>
 
+**About Me**
 - 💡 Passionate about **continuous learning and growth**  
 - 🌱 Dedicated to building **scalable & reliable web applications**  
 - ☁️ Exploring opportunities in **Web, Desktop, and Mobile development**  
