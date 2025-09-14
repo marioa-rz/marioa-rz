@@ -1,10 +1,9 @@
 <div align="center">
   <h1>Hi, I'm Mario 👋</h1>
   <h3>Junior Developer | Passionate Learner | Tech Enthusiast</h3>
-  <h2></h2>
 </div>
 
-**About Me**
+<h2>About Me</h2>
 - 💡 Passionate about **continuous learning and growth**  
 - 🌱 Dedicated to building **scalable & reliable web applications**  
 - ☁️ Exploring opportunities in **Web, Desktop, and Mobile development**  
