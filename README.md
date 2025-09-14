@@ -3,6 +3,7 @@
   <h3>Junior Developer | Passionate Learner | Tech Enthusiast</h3>
 </div>
 
+<hr style="height:1px; border:none; background-color:#444; width:40%; margin:auto;"/>
 - 💡 Passionate about **continuous learning and growth**  
 - 🌱 Dedicated to building **scalable & reliable web applications**  
 - ☁️ Exploring opportunities in **Web, Desktop, and Mobile development**  
