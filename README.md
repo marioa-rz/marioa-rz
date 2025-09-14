@@ -3,11 +3,9 @@
   <h3>Junior Developer | Passionate Learner | Tech Enthusiast</h3>
 </div>
 
-## About Me
-
-- Currently working with **React, Node.js, and MongoDB**  
-- Learning how to build **scalable & stable web applications**  
-- Interested in **Web, Desktop, and Mobile applications**  
+- 💡 Passionate about **continuous learning and growth**  
+- 🌱 Dedicated to building **scalable & reliable web applications**  
+- ☁️ Exploring opportunities in **Web, Desktop, and Mobile development**  
 - **Contact**: **marioandreerodriguez@gmail.com**
 
   
