@@ -7,8 +7,8 @@
 - 🌱 Dedicated to building **scalable & reliable web applications**  
 - ☁️ Exploring opportunities in **Web, Desktop, and Mobile development**  
 - **Contact**: **marioandreerodriguez@gmail.com**
-
-<hr style="border:none;height:1px;background:#444;width:40%;margin:12px auto 0;" />
+  
+<hr style="height:1px; border:none; background-color:#444; width:40%; margin:auto;"/>
   
 <!--- stats & Trophy (start) -->
 <p align="center">
