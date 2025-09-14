@@ -8,6 +8,7 @@
 - ☁️ Exploring opportunities in **Web, Desktop, and Mobile development**  
 - **Contact**: **marioandreerodriguez@gmail.com**
 
+---
   
 <!--- stats & Trophy (start) -->
 <p align="center">
