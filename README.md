@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Mario 👋</h1>
   <h3>Junior Developer | Passionate Learner | Tech Enthusiast</h3>
-  <h1></h1>
+  <h2></h2>
 </div>
 
 - 💡 Passionate about **continuous learning and growth**  
