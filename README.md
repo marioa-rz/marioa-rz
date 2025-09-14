@@ -3,14 +3,14 @@
   <h3>Junior Developer | Passionate Learner | Tech Enthusiast</h3>
 </div>
 
-<hr style="border:none;height:1px;background:#444;width:40%;margin:12px auto 0;" />
+<hr style="height:1px; border:none; background-color:#444; width:40%; margin:auto;"/>
 
-<h2 style="border-bottom:0;margin-bottom:8px;">About Me</h2>
+## About Me
 
-- 🔭 Currently working with **React, Node.js, and MongoDB**  
-- 🌱 Learning how to build **scalable & stable web applications**  
-- ☁️ Interested in **Web, Desktop, and Mobile applications**  
-- 📫 Reach me at: **marioandreerodriguez@gmail.com**
+- Currently working with **React, Node.js, and MongoDB**  
+- Learning how to build **scalable & stable web applications**  
+- Interested in **Web, Desktop, and Mobile applications**  
+- Reach me at: **marioandreerodriguez@gmail.com**
 
   
 <!--- stats & Trophy (start) -->
