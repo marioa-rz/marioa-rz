@@ -1,5 +1,5 @@
 # Hi, I'm Mario 👋
-**Junior Developer | Passionate Learner | Tech Enthusiast**
+<h3>**Junior Developer | Passionate Learner | Tech Enthusiast**<h3>
 --
 
 ## About Me
