@@ -8,7 +8,7 @@
 - ☁️ Exploring opportunities in **Web, Desktop, and Mobile development**  
 - **Contact**: **marioandreerodriguez@gmail.com**
   
-<hr style="border:none; height:1px; background-color:#e1e4e8; width:40%; margin:auto;" />
+<hr style="border:none; height:0.3px; background-color:#e1e4e8; width:40%; margin:auto;" />
   
 <!--- stats & Trophy (start) -->
 <p align="center">
