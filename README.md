@@ -1,5 +1,7 @@
+<div align="center">
 # Hi, I'm Mario 👋
 <h3>Junior Developer | Passionate Learner | Tech Enthusiast<h3>
+</div>
 
 ## About Me
 
