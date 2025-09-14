@@ -4,6 +4,7 @@
 </div>
 
 <h2>About Me</h2>
+
 - 💡 Passionate about **continuous learning and growth**  
 - 🌱 Dedicated to building **scalable & reliable web applications**  
 - ☁️ Exploring opportunities in **Web, Desktop, and Mobile development**  
