@@ -1,12 +1,13 @@
-# Hi, I'm Mario 👋**
+# Hi, I'm Mario 👋
 **Junior Developer | Passionate Learner | Tech Enthusiast**
+--
 
 ## About Me
 
 - Currently working with **React, Node.js, and MongoDB**  
 - Learning how to build **scalable & stable web applications**  
 - Interested in **Web, Desktop, and Mobile applications**  
-- 🔗 **Contact**: **marioandreerodriguez@gmail.com**
+- **Contact**: **marioandreerodriguez@gmail.com**
 
   
 <!--- stats & Trophy (start) -->
