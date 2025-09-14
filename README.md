@@ -1,16 +1,12 @@
-<div align="center">
-  <h1>Hi, I'm Mario 👋</h1>
-  <h3>Junior Developer | Passionate Learner | Tech Enthusiast</h3>
-</div>
-
-<hr style="height:1px; border:none; background-color:#444; width:40%; margin:auto;"/>
+# Hi, I'm Mario 👋**
+**Junior Developer | Passionate Learner | Tech Enthusiast**
 
 ## About Me
 
 - Currently working with **React, Node.js, and MongoDB**  
 - Learning how to build **scalable & stable web applications**  
 - Interested in **Web, Desktop, and Mobile applications**  
-- Reach me at: **marioandreerodriguez@gmail.com**
+- 🔗 **Contact**: **marioandreerodriguez@gmail.com**
 
   
 <!--- stats & Trophy (start) -->
